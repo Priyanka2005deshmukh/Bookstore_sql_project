@@ -21,7 +21,7 @@ To build a complete and functional store management system
 
 To understand CRUD operations
 
-To improve logical thinking through real-time project developmen
+To improve logical thinking through real-time project development
 
 ## Applications
 
