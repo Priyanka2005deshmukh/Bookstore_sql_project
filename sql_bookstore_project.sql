@@ -1,5 +1,5 @@
 -- create database 
-drop database bookstore_exam;
+
 create database bookstore;
 use bookstore;
 -- creating tables
