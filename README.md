@@ -1,6 +1,7 @@
 # Bookstore_sql_project
-# A simple and user-friendly Book Store Project designed to manage books, customers, orders, and billing. This project helps automate basic bookstore operations and keeps all records organized in one place.
-
+# A simple and user-friendly Book Store Project designed to manage books, customers, orders, and billing.
+# This project helps automate basic bookstore operations and keeps all records organized in one place.
+----
 # # Features
 
 Add New Books – Enter book details like title, author, price, and stock.
